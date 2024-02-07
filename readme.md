@@ -59,7 +59,7 @@ For detailed information and usage instructions, please contact the project owne
 
 For inquiries and more information, reach out to the project owner.
 
-[Sample Pictures](#) <!-- Replace with the actual link to the sample pictures -->
+[https://botdigit.com/Eckmar](https://botdigit.com/user/Eckmar)
 
 
 ## Contributing
