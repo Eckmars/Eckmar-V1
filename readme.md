@@ -1,4 +1,4 @@
-<p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
+<p align="center"><img src="https://github.com/Eckmars/Eckmar-V1/blob/main/Demo/Eckmar-v1.png"></p>
 
 <p align="center">
 <a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
@@ -6,26 +6,59 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/v/stable.svg" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
+# TOR-Optimized Marketplace Script
 
-## About Laravel
+## Introduction
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable, creative experience to be truly fulfilling. Laravel attempts to take the pain out of development by easing common tasks used in the majority of web projects, such as:
+This PHP (Laravel) script is designed with TOR optimization and Bitcoin integration for deposits and withdrawals. It operates as a web application and requires a VPS and Bitcoind for seamless functionality.
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+## Requirements
 
-Laravel is accessible, yet powerful, providing tools needed for large, robust applications. A superb combination of simplicity, elegance, and innovation give you tools you need to build any application with which you are tasked.
+- VPS (any specs)
+- Bitcoind (on the same or another server)
 
-## Learning Laravel
+## Main Features
 
-Laravel has the most extensive and thorough documentation and video tutorial library of any modern web application framework. The [Laravel documentation](https://laravel.com/docs) is thorough, complete, and makes it a breeze to get started learning the framework.
+1. **Mnemonic Password Reset**
+   - Users receive a unique mnemonic key at registration for password recovery.
 
-If you're not in the mood to read, [Laracasts](https://laracasts.com) contains over 900 video tutorials on a range of topics including Laravel, modern PHP, unit testing, JavaScript, and more. Boost the skill level of yourself and your entire team by digging into our comprehensive video library.
+2. **Vendor Accounts**
+   - Users need a vendor account to create listings. Vendor status can be obtained through application or payment.
+
+3. **Autofill System**
+   - Convenient system for users selling multiple items, automating the delivery process.
+
+4. **Messaging System**
+   - Private messaging system for users to communicate.
+
+5. **Wallet System**
+   - Users can deposit funds with a new deposit address generated each time.
+
+6. **Escrow**
+   - Automated escrow system with fees. Disputes can be opened if goods are not delivered as expected.
+
+7. **Feedback**
+   - Feedback score and trust rating system based on user interactions.
+
+8. **News**
+   - Blog-like section for updates and announcements.
+
+9. **Auction System**
+   - Products can be sold through auctions with customizable parameters.
+
+10. **Admin Panel**
+    - Manage categories, vendor applications, disputes, and create news.
+
+## Usage
+
+For detailed information and usage instructions, please contact the project owner.
+
+## Contact
+
+For inquiries and more information, reach out to the project owner.
+
+[Sample Pictures](#) <!-- Replace with the actual link to the sample pictures -->
+
 
 ## Contributing
 
