@@ -6,7 +6,9 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/v/stable.svg" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
-# TOR-Optimized Marketplace Script
+
+
+<p align="center"> <h1> <strong> Eckmar V1 </strong></h1> </p>
 
 ## Introduction
 
